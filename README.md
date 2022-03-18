@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/jondot/hygen/master/media/hygen.gif" width=600/>
 </div>
 
+# SENG 371
 
 ## Features
 
